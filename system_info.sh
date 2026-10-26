@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Starting system information check..."
 echo "linux---server--information"
 
@@ -20,6 +21,8 @@ top -l 1 | grep PhysMem
 echo " " 
 echo "system uptime"
 uptime
+ 
 
+echo " system info completed"
 
 
