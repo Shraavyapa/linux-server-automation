@@ -1,6 +1,7 @@
 
 # Linux Server Automation
 #let's start
+#let's go
 
 ## Project Overview
 This project automates basic Linux server monitoring
