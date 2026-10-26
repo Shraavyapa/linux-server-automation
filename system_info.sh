@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Starting system information check..."
 echo "linux---server--information"
 
 echo "hostname:"
