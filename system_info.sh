@@ -20,6 +20,7 @@ top -l 1 | grep PhysMem
 echo " " 
 echo "system uptime"
 uptime
-
-
+ 
+ echo " system info completed"
+ 
 
